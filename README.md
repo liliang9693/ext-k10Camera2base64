@@ -1,10 +1,11 @@
-# K10摄像头图传可视化面板
+# 行空板K10摄像头图传可视化面板
 
 ![](./arduinoC/_images/featured.png)
 
 # 说明
-将UNIHIKER K10摄像头实时转换成base64编码，然后上传到SIoT V2，最终在Mind+数据可视化面板中的网络图片组件上显示画面。
+将UNIHIKER K10摄像头画面实时转换成base64编码，然后上传到SIoT V2，最终在Mind+数据可视化面板中的网络图片组件上显示画面。
 
+> 仅适用于行空板K10&SIoT V2&Mind+数据可视化面板。
 
 
 # 积木

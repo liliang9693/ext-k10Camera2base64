@@ -1,11 +1,11 @@
 {
     "name": {
-        "zh-cn": "K10摄像头转base64",
-        "en": "K10 camera to base64"
+        "zh-cn": "K10摄像头图传",
+        "en": "K10 Camera Transmission"
     },
     "description": {
-        "zh-cn": "将K10摄像头的图片转换为base64编码",
-        "en": "Convert K10 camera image to base64 encoding"
+        "zh-cn": "将行空板K10摄像头画面传输到可视化面板",
+        "en": "K10 Camera Transmission"
     },
     "author": "liliang",
     "email": "969316753@qq.com",
