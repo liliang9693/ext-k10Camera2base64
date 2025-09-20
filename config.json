@@ -1,0 +1,31 @@
+{
+    "name": {
+        "zh-cn": "K10摄像头转base64",
+        "en": "K10 camera to base64"
+    },
+    "description": {
+        "zh-cn": "将K10摄像头的图片转换为base64编码",
+        "en": "Convert K10 camera image to base64 encoding"
+    },
+    "author": "liliang",
+    "email": "969316753@qq.com",
+    "license": "MIT",
+    "isBoard": false,
+    "id": "k10Camera2base64",
+    "platform": [
+        "win",
+        "mac",
+        "web",
+        "linux"
+    ],
+    "version": "0.0.1",
+    "asset": {
+        "arduinoC": {
+            "dir": "arduinoC/",
+            "main": "main.ts",
+            "board": [
+                "esp32s3bit"
+            ]
+        }
+    }
+}

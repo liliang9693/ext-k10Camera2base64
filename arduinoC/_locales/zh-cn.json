@@ -1,0 +1,8 @@
+{
+    "k10Camera2base64.networkSettings|block": "网络设置",
+    "k10Camera2base64.connectWiFi|block": "连接WiFi 名称：[WIFI_NAME] 密码：[WIFI_PASSWORD]",
+    "k10Camera2base64.connectSIoT|block": "连接SIoT V2 服务器IP：[SERVER_IP] 账号：[ACCOUNT] 密码：[PASSWORD]",
+    "k10Camera2base64.setImageConfig|block": "设置图传目标Topic[TOPIC] 图传间隔[INTERVAL]毫秒",
+    "k10Camera2base64.startCameraTransmission|block": "使用设置的参数开启摄像头图传",
+    "k10Camera2base64.transmitImage|block": "使用设置的图传间隔传输一次图像"
+}
